@@ -1,0 +1,18 @@
+Gene Cluster 2	Enrichment Score: 0.892232097230329
+ID	Gene Name
+S000000030	mRNA splicing protein PRP45(PRP45)
+S000000041	RNA-processing protein PTA1(PTA1)
+S000000001	transcription factor TFIIIC subunit TFC3(TFC3)
+
+Gene Cluster 3	Enrichment Score: 0.4555345596590945
+ID	Gene Name
+S000000072	serine/threonine protein kinase CDC15(CDC15)
+S000000032	MIND complex subunit MTW1(MTW1)
+S000000036	pyruvate kinase CDC19(CDC19)
+
+Gene Cluster 1	Enrichment Score: 0.1962907695557618
+ID	Gene Name
+S000000066	tRNA splicing endonuclease subunit SEN34(SEN34)
+S000000031	RNA-binding protein POP5(POP5)
+
+
